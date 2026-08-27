@@ -38,6 +38,18 @@
 
 ---
 
+### 🚀 Featured Projects (精选项目)
+
+| 项目名称 | 简介说明 | 核心标签 |
+| :--- | :--- | :--- |
+| 🤖 [**zhipu-free**](https://github.com/supertiny99/zhipu-free) | 智谱 AI 免费模型整合工具库（SDK / CLI / Web UI / AI Agent Skill） | `Python` `AI Agent` `LLM` |
+| 🧩 [**dify-plugin-zhipuai-coding**](https://github.com/supertiny99/dify-plugin-zhipuai-coding) | Dify 插件：智谱 AI Coding Plan 模型接入支持 | `Python` `Dify` `Plugin` |
+| 🛠️ [**x-tools**](https://github.com/supertiny99/x-tools) | 在线实用工具箱（包含 WebRTC 直连通信等在线工具） | `Vue` `WebRTC` `Frontend` |
+| 🧠 [**baidu-naotu-plugin**](https://github.com/supertiny99/baidu-naotu-plugin) | 百度脑图批量导出浏览器插件 | `JavaScript` `Chrome Extension` ⭐ 6 |
+| 💬 [**langbot-lark-card-patch**](https://github.com/supertiny99/langbot-lark-card-patch) | LangBot 飞书流式卡片定制与补丁 | `Python` `Docker` `Feishu/Lark` |
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
