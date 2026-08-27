@@ -50,11 +50,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supertiny99&show_icons=true&theme=radical&hide_border=true" height="140" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supertiny99&layout=compact&theme=radical&hide_border=true" height="140" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=supertiny99&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=supertiny99&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=supertiny99&theme=radical" height="150" alt="Top Languages" />
 </div>
 
 <br/>
